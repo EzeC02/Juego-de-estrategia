@@ -18,7 +18,7 @@ double mostrarSalud() {
 	return this.Salud;
 }
 int mostrarPocicion() {
-	return this.Pocicion;
+	return this.Pocicion; 
 }
 
 }

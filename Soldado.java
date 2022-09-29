@@ -7,7 +7,9 @@ private int energia;
 Soldado(int poc){
 	super(10,200,poc);
 	this.energia=100;
+	
 }
+
 @Override
 public void Atacar(){
 	if (this.energia>0) {
